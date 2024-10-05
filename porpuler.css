@@ -87,7 +87,7 @@ header li:hover {
   content: "";
   left: 0;
   width: 500px;
-  height: 90px;
+  height: 88px;
   background: #0d0e12;
   border-left: 2px solid aqua;
   animation: typing 1.5s steps(16) infinite alternate;
